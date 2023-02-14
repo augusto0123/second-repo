@@ -1,5 +1,5 @@
 Boa noite - criado via interface do github
 
 
-edicao do arquivo via vscode
+Edicao do arquivo via vscode texto alterado via github
 
