@@ -1,4 +1,6 @@
 Boa noite - criado via interface do github
 
+Edicao do arquivo via vscode --- texto alterado via github
 
-edicao do arquivo via vscode ---
+
+Resolucao do conflito
